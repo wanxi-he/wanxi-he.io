@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>何宛羲的个人主页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: #3498db;
+        }
+        .section p {
+            line-height: 1.6;
+        }
+        .section ul {
+            list-style: none;
+            padding: 0;
+        }
+        .section ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>何宛羲的个人主页</h1>
+        <div class="section">
+            <h2>基本信息</h2>
+            <p>姓名：何宛羲</p>
+            <p>籍贯：贵州遵义</p>
+            <p>现居：北京</p>
+            <p>电话：18985678893</p>
+            <p>邮箱：1713240739@qq.com</p>
+        </div>
+        <div class="section">
+            <h2>教育背景</h2>
+            <p>2022.09.03——至今</p>
+            <p>北京林业大学 / 信息管理与信息系统（管理信息方向）专业 大学本科</p>
+            <p>主修课程：程序设计基础、管理学、微观/宏观经济学、统计学原理、数据结构与算法、数据库与数据仓库等课程。</p>
+        </div>
+        <div class="section">
+            <h2>获得荣誉</h2>
+            <ul>
+                <li>2022——2023学年优秀学生三等奖学金</li>
+                <li>2023暑期数学建模竞赛最佳新锐奖、三等奖</li>
+                <li>2023年全国大学生数据分析竞赛 一等奖</li>
+                <li>2023年“BETTA杯”全国大学生英语语法大赛 一等奖</li>
+                <li>2023年“中教杯”全国大学生英语翻译大赛B组 一等奖</li>
+                <li>2023年中华思想文化术语大赛青年类 全国金奖</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>个人技能</h2>
+            <ul>
+                <li>CET-6</li>
+                <li>数据分析专业技能证书</li>
+                <li>HarmonyOS应用开发者基础认证</li>
+                <li>Python Programming专业证书</li>
+                <li>商业分析与智能认证证书</li>
+                <li>敏捷从业者认证</li>
+                <li>星巴克咖啡师Roast and Blend 技能证书</li>
+                <li>Yale University Introduction to Psychology心理学导论课程证书</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
